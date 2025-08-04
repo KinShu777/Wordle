@@ -23,9 +23,11 @@ h1{
     text-align: center;
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
     font-weight: 100;
 }
 .start{
     margin-top: 50px;
+}
+#w2{
+    margin-bottom: 25px;
 }
